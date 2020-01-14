@@ -1,0 +1,14 @@
+{
+  "name": "webd6201-w2020-lesson2a",
+  "version": "1.0.0",
+  "description": "Demo for WEBD6201 - Lesson 2",
+  "main": "app.js",
+  "author": "Tom Tsiliopoulos",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
